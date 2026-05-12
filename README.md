@@ -10,5 +10,6 @@ The velocity of the electron can be described by the following differential equa
 $$ \frac{\text{d}\mathbf{v}}{\text{d}t}=\frac{e}{m_e}(\mathbf{E}(t)+\mathbf{v}(t)\times\mathbf{B})$$
 </p>
 
-![out/ECR_0,0875T_2450000000Hz.png](https://github.com/VioletSpace/ECR-Simulation/blob/06663b01ab88d6e6745d13ce3a4a548145f9e132/out/ECR_0%2C0875T_2450000000Hz.png)
-![out/ECR_0,0875T_850000000Hz.png](https://github.com/VioletSpace/ECR-Simulation/blob/06663b01ab88d6e6745d13ce3a4a548145f9e132/out/ECR_0%2C0875T_850000000Hz.png)
+<p align="center"><a href="https://github.com/VioletSpace/ECR-Simulation/blob/06663b01ab88d6e6745d13ce3a4a548145f9e132/out/ECR_0%2C0875T_2450000000Hz.png"><img src="https://github.com/VioletSpace/ECR-Simulation/blob/06663b01ab88d6e6745d13ce3a4a548145f9e132/out/ECR_0%2C0875T_2450000000Hz.png" width="50%"></a><a href="https://github.com/VioletSpace/ECR-Simulation/blob/06663b01ab88d6e6745d13ce3a4a548145f9e132/out/ECR_0%2C0875T_850000000Hz.png"><img src="https://github.com/VioletSpace/ECR-Simulation/blob/06663b01ab88d6e6745d13ce3a4a548145f9e132/out/ECR_0%2C0875T_850000000Hz.png" width="50%"></a><br>
+ECR-Bedingung erfüllt/nicht erfüllt.
+</p>
